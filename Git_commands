@@ -1,0 +1,8 @@
+- git clone + token + name 
+- git add file_name
+-git commit -m "message to commit"
+- git push to push into Github 
+- git pull to pull from remote repository 
+- git log shows what has been done 
+- git status shows the status 
+
